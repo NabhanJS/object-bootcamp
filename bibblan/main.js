@@ -5,7 +5,7 @@ let infoAboutBook = {
 
 }
 
-console.log(infoAboutBook.author);
+/* console.log(infoAboutBook.author); */
 
 let manyBooks = [ 
     {
